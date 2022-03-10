@@ -45,6 +45,6 @@ Find me on GitHub: [gr4ham18](https://github.com/gr4ham18)<br />
 
 
 ## screenshot 
-![](public/images/Screen Shot 2022-03-09 at 7.08.57 PM.png)
+![screenshot](./public/images/Screen%20Shot%202022-03-09%20at%207.08.57%20PM.png)
 
-![](public/images/Screen Shot 2022-03-09 at 7.09.09 PM.png)
+![screenshot](./public/images/Screen%20Shot%202022-03-09%20at%207.09.09%20PM.png)
